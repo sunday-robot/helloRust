@@ -1,5 +1,5 @@
 [package]
-name = "helloRust"
+name = "hello_rust"
 version = "0.1.0"
 authors = ["sunday robot <sgx03150@nifty.com>"]
 edition = "2018"
